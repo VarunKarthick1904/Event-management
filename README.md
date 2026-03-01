@@ -2,4 +2,4 @@ A simple static Event Management webpage created using only HTML. This project i
 🔹 Short About 
 Beginner-friendly event management webpage built using pure HTML.
 
-🔗 Live Demo:[]
+🔗 Live Demo:[https://varunkarthick1904.github.io/Event-management/]
